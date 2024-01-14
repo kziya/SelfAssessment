@@ -1,26 +1,26 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop - 👂 heard
+  - Event loop - 🎓 known
   - try..catch -  🎓 known
   - Non-blocking -  🎓 known
   - Async I/O -  🎓 known
-  - Thread pool - 👂 heard
+  - Thread pool - 🎓 known
   - Pattern Reactor - 👂 heard
-  - CAS operations - 👂 heard
-  - epoll - 👂 heard
-  - kqueue - 👂 heard
+  - CAS operations - 🎓 known
+  - epoll - 🎓 known
+  - kqueue - 🎓 known
   - Completion ports
   - Event ports
-  - libuv - 👂 heard
-  - Race conditions - 👂 heard
-  - Dead locks - 👂 heard
-  - Live locks - 👂 heard
-  - Concurrent programming -  👂 heard
-  - Parallel programming - 👂 heard
+  - libuv - 🎓 known
+  - Race conditions - 🎓 known
+  - Dead locks - 🎓 known
+  - Live locks - 🎓 known
+  - Concurrent programming - 🎓 known
+  - Parallel programming - 🎓 known
   - Actor Model - 👂 heard
-  - Thread - 👂 heard
-  - Process - 👂 heard
+  - Thread - 🎓 known
+  - Process - 🎓 known
 - Async contracts
   - Callbacks -  🎓 known
   - Callback-last-error-first -  🎓 known
@@ -33,7 +33,7 @@
   - Async Generator - 👂 heard
   - Async Iterator - 👂 heard
   - Event -  🎓 known
-  - Coroutine
+  - Coroutine - 🎓 known
   - Goroutine
   - Signal - 👂 heard
   - Stream -  🎓 known
@@ -41,19 +41,19 @@
   - Middleware -  🎓 known
   - Locks
 - Async adapters and utils
-  - callbackify - 👂 heard
-  - promisify - 👂 heard
-  - asyncify - 👂 heard
-  - callbacks compose - 👂 heard
-  - async compose - 👂 heard
+  - callbackify - 🎓 known
+  - promisify - 🎓 known
+  - asyncify - 🎓 known
+  - callbacks compose - 🎓 known
+  - async compose - 🎓 known
 - Async abstractions interfaces
   - EventEmitter -  🎓 known
   - Observable/Observer -  🎓 known
   - Readable -  🎓 known
   - Writable -  🎓 known
   - Transform -  🎓 known
-  - Async Pool - 👂 heard
-  - Async Queue - 👂 heard
+  - Async Pool - 🎓 known
+  - Async Queue - 🎓 known
   - Async Collector
   - Semaphore
   - Mutex
@@ -69,15 +69,15 @@
   - child_process -  🎓 known
   - worker_threads -  🎓 known
   - Atomics
-  - High resolution clock 
+  - High resolution clock
   - Callback hell -  🎓 known
   - Promise hell -  🎓 known
   - ref() and unref() - 👂 heard
   - Error handling in async code -  🎓 known
   - Better stack traces with return await
   - JSON: streaming serialization
-  - promisify - 👂 heard
-  - callbackify - 👂 heard
+  - promisify -🎓 known
+  - callbackify - 🎓 known
   - AsyncLocalStorage -  👂 heard
   - AsyncResource - 👂 heard
 - Techniques
@@ -89,7 +89,7 @@
   - Promise.race -  🎓 known
   - Promise.any -  🎓 known
   - Web Locks API
-  - IPC - 👂 heard
+  - IPC - 🎓 known
   - Channel API
   - Revealing Constructor - 👂 heard
   - Web Locks API

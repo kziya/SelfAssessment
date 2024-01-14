@@ -40,7 +40,7 @@
   - Object form
   - instance - 🎓 known
   - Introspection
-  - Reflection 
+  - Reflection
 - Patterns
   - Singleton - 🎓 known
   - Factory Method - 🎓 known
@@ -48,7 +48,7 @@
   - Adapter - 🎓 known
   - Observer - 🎓 known
   - Strategy - 🎓 known
-  - Facade 
+  - Facade
   - Proxy - 🎓 known
   - Chain of Responsibility - 🎓 known
   - Command - 🎓 known

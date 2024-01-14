@@ -4,16 +4,16 @@
   - Strong and weak sides of node.js - 🎓 known
   - Stateful and stateless servers - 🎓 known
   - Nonblocking I/O and locking code - 🎓 known
-  - Event loop: phases - 👂 heard
-  - Event loop: microtasks and macrotasks -👂 heard
-  - Garbage collection - 👂 heard
+  - Event loop: phases - 🎓 known
+  - Event loop: microtasks and macrotasks  - 🎓 known
+  - Garbage collection - 🎓 known
   - Node.js LTS schedule - 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks - 🎓 known
   - Interactive applications (close to real-time) - 🎓 known
 - Modularity, layers and dependencies
   - CommonJS modules - 🎓 known
   - ECMAScript modules - 🎓 known
-  - node:module 
+  - node:module
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm - 🎓 known
@@ -38,7 +38,7 @@
   - Crypto API - 🎓 known
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async - 🎓 known
   - Copy folder recursively - 🎓 known
   - Worker threads - 🎓 known
   - Performance hooks - 🎓 known
@@ -46,45 +46,45 @@
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
-  - Deprecated domain API
+  - Deprecated domain API - 🎓 known
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
+  - node:worker_threads - 🎓 known
+  - node:child_process - 🎓 known
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
+  - Generating crypto random UUID - 🎓 known
   - node:url vs new URL
-  - node:assert
-  - Internationalization
-  - Blob, File, Buffer, node:buffer
-  - Module node:zlib
+  - node:assert - 🎓 known
+  - Internationalization - 🎓 known
+  - Blob, File, Buffer, node:buffer - 🎓 known
+  - Module node:zlib - 🎓 known
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
+  - Isolation between layer - 🎓 known
+  - Multilayer approach - 🎓 known
   - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
+  - Inversion of control - 🎓 known
+  - Dependency injection - 🎓 known
+  - GRASP - 🎓 known
+  - SOLID - 🎓 known
   - GoF patterns
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
+  - Distributed systems - 🎓 known
+  - Highload applications - 🎓 known
+  - Clean architecture - 🎓 known
   - DDD
-  - Message Queue
+  - Message Queue - 🎓 known
   - CQS
   - CQRS
   - Event sourcing
-  - Load balancing
+  - Load balancing - 🎓 known
   - Serverless clouds
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
+  - IP sticky sessions - 🎓 known
   - Endpoint throttling - 🎓 known
   - HTTP(S) - 🎓 known
   - TCP/SSL - 🎓 known
@@ -113,45 +113,45 @@
   - SSL certificates - 🎓 known
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Native test runner - 🎓 known
+  - Logging - 🎓 known
+  - Application configuring - 🎓 known
+  - Testing - 🎓 known
+  - CI/CD - 🎓 known
+  - Readable - 🎓 known
+  - Writable - 🎓 known
+  - Transform - 🎓 known
   - back pressure
-  - Buffer
-  - Console
-  - Inspector
-  - Reliability
+  - Buffer - 🎓 known
+  - Console - 🎓 known
+  - Inspector - 🎓 known
+  - Reliability - 🎓 known
   - Quality
-  - Availability
-  - Flexibility
+  - Availability - 🎓 known
+  - Flexibility - 🎓 known
 - Data access
   - Data access layer
-  - Repository
+  - Repository - 🎓 known
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error - 🎓 known
+  - error.cause - 🎓 known
+  - error.code - 🎓 known
+  - error.message - 🎓 known
+  - error.stack - 🎓 known
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Uncaught exceptions - 🎓 known
+  - Heap dump - 🎓 known
+  - Debugging tools - 🎓 known
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks - 🎓 known
+  - Resource leaks - 🎓 known
   - Data race
 - Integrations and bindings
-  - Native addons
+  - Native addons - 👂 heard
   - C and C++ addons
   - Rust addons
   - Zig addons

@@ -18,10 +18,10 @@
   - async generator - 🎓 known
   - async iterator - 🎓 known
   - chaining - 🎓 known
-  - optional chaining
-  - IIFE
+  - optional chaining - 🎓 known
+  - IIFE - 🎓 known
   - global - 🎓 known
-  - globalThis
+  - globalThis - 🎓 known
   - window - 🎓 known
   - getters and setters - 🎓 known
   - __proto__ - 🎓 known
@@ -39,7 +39,7 @@
   - in - 🎓 known
   - super - 🎓 known
   - Symbol - 🎓 known
-  - Reflect
+  - Reflect - 🎓 known
 - Statements
   - if - 🎓 known
   - while - 🎓 known
@@ -53,12 +53,12 @@
   - continue - 🎓 known
   - import - 🎓 known
   - export - 🎓 known
-  - label
+  - label - 🎓 known
   - try..catch - 🎓 known
   - switch - 🎓 known
   - class - 🎓 known
   - new Error - 🎓 known
-  - with
+  - with - 🎓 known
 - Functions
   - function declaration - 🎓 known
   - function expression - 🎓 known
@@ -67,8 +67,8 @@
   - functional object - 🎓 known
 - Data structures
   - Array - 🎓 known
-  - mixin
-  - extend
+  - mixin - 🎓 known
+  - extend - 🎓 known
   - typed arrays - 🎓 known
   - Map - 🎓 known
   - Set - 🎓 known

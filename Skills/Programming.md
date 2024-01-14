@@ -42,12 +42,12 @@
   - higher order - 🎓 known
   - recursion - 🎓 known
   - callback - 🎓 known
-  - listener
-  - compose
-  - pipe
+  - listener - 🎓 know
+  - compose - 🎓 know
+  - pipe - 🎓 know
   - memoize - 🎓 known
   - wrapper - 🎓 known
-  - functor
+  - functor - 🎓 know
   - monad
   - monoid
   - generator - 🎓 known
@@ -69,19 +69,19 @@
   - circular list - 🎓 known
   - queue - 🎓 known
   - stack - 🎓 known
-  - deque
+  - deque - 🎓 known
   - tree - 🎓 known
   - graph - 🎓 known
   - iterator - 🎓 known
-  - mutable state 
-  - immutable state
+  - mutable state - 🎓 known
+  - immutable state - 🎓 known
   - serialization - 🎓 known
   - string parsing - 🎓 known
 - Process & style
   - compiler - 🎓 known
   - transpiler - 🎓 known
   - linter - 🎓 known
-  - polyfill 
+  - polyfill - 🎓 known
   - debugger - 🎓 known
   - garbage collection - 🎓 known
   - refactoring - 🎓 known
@@ -94,13 +94,13 @@
   - complexity - 🎓 known
   - decomposition - 🎓 known
   - spaghetti - 🎓 known
-  - silver bullet
-  - not invented here
+  - silver bullet - 🎓 known
+  - not invented here - 🎓 know
   - dead code - 🎓 known
   - unreachable code - 🎓 known
   - duplicate code - 🎓 known
   - exception - 🎓 known
   - return early - 🎓 known
-  - unittest
+  - unittest -  🎓 known
   - git - 🎓 known
   - github - 🎓 known
